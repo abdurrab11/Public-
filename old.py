@@ -1,5 +1,5 @@
 #----------------------------[IMPORT/MODULE]-----------------------------------#
-import requests,json,os,sys,uuiddrandom,datetime,time,re
+import requests,json,os,sys,uidrandom,datetime,time,re
 import urllib3,rich,base64
 from rich.markdown import Markdown as mark
 from rich.columns import Columns as col
